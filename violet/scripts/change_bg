@@ -1,7 +1,7 @@
 #!/bin/bash
 
 curr_background=$(swww query | awk '{print $NF}'  | tr "/" " " | awk '{print $NF}')
-background_dir="/home/atenea/Pictures/background"
+background_dir="/home/atenea/Pictures/background/violet"
 background_list=$(ls $background_dir)
 last=$(echo $background_list | awk '{print $NF}')
 first=$(echo $background_list | awk '{print $1}')
