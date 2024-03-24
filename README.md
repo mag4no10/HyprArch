@@ -45,7 +45,7 @@
 
 <!--- Licence --->
 <div id="licence" align="left">
-    <h4>📄 Licence </h4>
+    <h3>📄 Licence </h3>
     This repository is under the GPL-3.0 license, which grants the following permissions:
     <ul>
         <li>Commercial Use</li>
@@ -60,7 +60,7 @@
 
 <!--- Gratitude --->
 <div id="gratitude" align="left">
-    <h4>❤️ Gratitude</h4>
+    <h3>❤️ Gratitude</h3>
     <ul>
         <li><a href="https://shields.io/">Shields.io</a> - Tool for creating the github badges like the license one down here.</li>
         <li><a href="https://www.color-hex.com/">Color-hex</a> - A tool for creating and collecting color palettes.</li>
