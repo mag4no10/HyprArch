@@ -1,14 +1,80 @@
-<h1 align="center">HyprArch</h1>
-<h2 align="center">✨Aesthetic and dynamic Arch/Hyprland dotfiles ✨ </h2>
+<!---here goes an image instead of the title---><h1 align="center">HyprArch</h1>
+<h4 align="center">Made with love by <strong>mag4no10</strong> ツ </h4>
 <img src="./img/color_bar.png">
 
-<div align="center">
+<div id="labels" align="center">
+    <br>
+    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/mag4no10/HyprArch?style=flat-square&logo=github&labelColor=%23cc7177&color=%2389023e">&nbsp;
+    <img alt="Dynamic JSON Badge" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmag4no10%2FHyprArch%2Fmain%2Fassets%2Fkernel.json&query=%24.kernel&style=flat-square&label=arch%20kernel&labelColor=%09%2350c878&color=%231a936f">&nbsp;
+    <img alt="GitHub commit activity (main)" src="https://img.shields.io/github/commit-activity/t/mag4no10/HyprArch/main?style=flat-square&labelColor=%234c96ce&color=%231e73be">
+</div>
 
-<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/mag4no10/HyprArch?style=flat-square&logo=github&labelColor=%23cc7177&color=%2389023e">
+>   [!Warning]
+>   This is a collection of dotfiles that work in my system.
+>   It is important to remind you that you may break your system by installing those. Use them at your own risk.
 
-<img alt="Dynamic JSON Badge" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmag4no10%2FHyprArch%2Fmain%2Fassets%2Fkernel.json&query=%24.kernel&label=Arch%20kernel&labelColor=%09%2388d497&color=%09%231a936f">
+<!--- mp4/files --->
+<div id="showcase" align="center">
+
+</div>
+<br><br>
 
 
-<img alt="GitHub commit activity (branch)" src="https://img.shields.io/github/commit-activity/t/mag4no10/HyprArch/main?style=flat-square&labelColor=%234c96ce&color=%231e73be">
+<!--- Installation and dependencies --->
+<div id="installation" align="center">
+<br><br>
 
+
+</div>
+<br><br>
+
+
+<!--- Themes --->
+<div id="themes" align="center">
+
+</div>
+<br><br>
+
+
+<!--- Keybinds --->
+<div id="keybinds" align="center">
+
+</div>
+<br><br>
+
+
+<!--- Licence --->
+<div id="licence" align="left">
+    <h4>📄 Licence </h4>
+    This repository is under the GPL-3.0 license, which grants the following permissions:
+    <ul>
+        <li>Commercial Use</li>
+        <li>Private Use</li>
+        <li>Distribution</li>
+        <li>Modification</li>
+    </ul>
+    For more information: see the <a href="./LICENSE">LICENCE.</a>
+</div>
+<br><br>
+
+
+<!--- Gratitude --->
+<div id="gratitude" align="left">
+    <h4>❤️ Gratitude</h4>
+    <ul>
+        <li><a href="https://shields.io/">Shields.io</a> - Tool for creating the github badges like the license one down here.</li>
+        <li><a href="https://www.color-hex.com/">Color-hex</a> - A tool for creating and collecting color palettes.</li>
+        <li><a>Catpuccin community</a> - For inspiring me to make this dotfiles and providing me the cat below :)</li>
+        <li><a href="https://github.com/s4vitar">S4vitar</a> - Who showed me the beauty of Linux customization.</li>
+        <li><a href="https://github.com/SolDoesTech">SolDoesTech</a> - Who made me discover Hyprland.</li>
+    </ul>
+</div>
+<br><br>
+
+
+<!--- Footer --->
+<div id="footer" align="center">
+    <img alt ="Cat decoration" src="./img/footer_cat.svg">
+    <p>Thank you for scrolling up here, I wish you the best.</p>
+    <img alt="Static Badge" src="https://img.shields.io/badge/LICENCE-GPL%203.0-755393?style=flat-square&label=LICENCE&labelColor=%23ab85cc">
 </div>
