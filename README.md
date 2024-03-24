@@ -11,7 +11,11 @@
 
 >   [!Warning]
 >   This is a collection of dotfiles that work in my system.
->   It is important to remind you that you may break your system by installing those. Use them at your own risk.
+>   It is important to remind that you could break your system by installing those. Use them at your own risk.
+
+>   [!Tip]
+>   If you feel lost or you don't have a current Arch Linux installation,
+>   check <a href="https://github.com/mag4no10/arch-linux-guide">my guide</a>.
 
 <!--- mp4/files --->
 <div id="showcase" align="center">
@@ -64,7 +68,7 @@
     <ul>
         <li><a href="https://shields.io/">Shields.io</a> - Tool for creating the github badges like the license one down here.</li>
         <li><a href="https://www.color-hex.com/">Color-hex</a> - A tool for creating and collecting color palettes.</li>
-        <li><a>Catpuccin community</a> - For inspiring me to make this dotfiles and providing me the cat below :)</li>
+        <li><a href="https://github.com/catppuccin">Catpuccin community</a> - For inspiring me to make this dotfiles and providing me the cat below :)</li>
         <li><a href="https://github.com/s4vitar">S4vitar</a> - Who showed me the beauty of Linux customization.</li>
         <li><a href="https://github.com/SolDoesTech">SolDoesTech</a> - Who made me discover Hyprland.</li>
     </ul>
@@ -74,7 +78,7 @@
 
 <!--- Footer --->
 <div id="footer" align="center">
-    <img alt ="Cat decoration" src="./img/footer_cat.svg">
+    <img alt ="cat decoration" src="./img/footer_cat.svg">
     <p>Thank you for scrolling up here, I wish you the best.</p>
-    <img alt="Static Badge" src="https://img.shields.io/badge/LICENCE-GPL%203.0-755393?style=flat-square&label=LICENCE&labelColor=%23ab85cc">
+    <img alt="licence badge" src="https://img.shields.io/badge/LICENCE-GPL%203.0-755393?style=flat-square&label=LICENCE&labelColor=%23ab85cc">
 </div>
