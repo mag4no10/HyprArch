@@ -27,7 +27,7 @@
 
 
 <div id="under_construction" align="center">
-    <img alt ="construction" src="./img/under_construction.ppg">
+    <img alt ="construction" src="./img/under_construction.png">
 </div>
 <br><br>
 
