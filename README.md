@@ -20,13 +20,15 @@
 <!--- mp4/files --->
 <div id="showcase" align="center">
 
+
+
 </div>
 <br><br>
 
 
 <!--- Installation and dependencies --->
 <div id="installation" align="center">
-<br><br>
+
 
 
 </div>
@@ -36,12 +38,16 @@
 <!--- Themes --->
 <div id="themes" align="center">
 
+
+
 </div>
 <br><br>
 
 
 <!--- Keybinds --->
 <div id="keybinds" align="center">
+
+
 
 </div>
 <br><br>
