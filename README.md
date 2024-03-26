@@ -26,6 +26,12 @@
 <br><br>
 
 
+<div id="under_construction" align="center">
+    <img alt ="construction" src="./img/under_construction.jpg">
+</div>
+<br><br>
+
+
 <!--- Installation and dependencies --->
 <div id="installation" align="center">
 
