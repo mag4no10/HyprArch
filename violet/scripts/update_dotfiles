@@ -1,9 +1,7 @@
 #!/bin/bash
 
-echo -n "Branch?: "
+echo -n "Branch? [old, violet]: "
 read branch
-
-cp -r ~/.config/hypr ~/Github/HyprArch/$branch/.config
 
 cp -r ~/.config/{hypr,kitty,starship.toml,waybar,lvim,grub_themes,sddm_themes,wofi,rofi,swaylock,fish,dunst} ~/Github/HyprArch/$branch/config
 cp ~/.bashrc ~/.bash_aliases ~/.bash_vars ~/Github/HyprArch/$branch/home/

@@ -1,9 +1,10 @@
+location=middle
 show=drun
-//width=750
-//height=400
+width=600
+height=500
 always_parse_args=true
-show_all=false
+show_all=true
 print_command=true
+layer=overlay
 insensitive=true
-prompt= Hmm, what do you want to run?
-allow-images=true
+prompt=
