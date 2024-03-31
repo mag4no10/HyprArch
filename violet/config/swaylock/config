@@ -18,7 +18,7 @@ disable-caps-lock-text
 datestr=%d/%m/%Y
 
 scaling=fill
-image=/home/atenea/Pictures/background/pink_sky.png
+image=/home/atenea/Pictures/background/violet/fishing_stars.jpg
 
 grace=0
 fade-in=0.2
