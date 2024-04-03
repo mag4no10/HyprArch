@@ -32,12 +32,34 @@
 <br><br>
 
 
+<!--- Details --->
+<div id="Details" align="left">
+    <h2>📄 Details </h2>
+    <ul>
+        <li><b>Operating System</b> - Arch Linux <a href="https://archlinux.org">*</a></li>
+        <li><b>Compositor</b> - Hyprland <a href="https://hyprland.org/">*</a></li>
+        <li><b>Bar</b> - Waybar <a href="https://github.com/Alexays/Waybar">*</a></li>
+        <li><b>Notifications</b> - Swaync <a href="https://github.com/ErikReider/SwayNotificationCenter">*</a></li>
+        <li><b>Terminal</b> - Kitty <a href="https://sw.kovidgoyal.net/kitty/">*</a></li>
+        <li><b>Application Launcher</b> - Thunar <a href="https://github.com/davatorium/rofi">*</a></li>
+        <li><b>File Explorer</b> - Thunar <a href="https://web.archive.org/web/20110119200509/http://thunar.xfce.org/">*</a></li>
+        <li><b>Fonts</b> - Awesome 5 | Hack/FiraCode Nerd Font <a href="https://fontawesome.com/">*</a> <a href="https://www.nerdfonts.com/">*</a></li>
+        <li><b>Shell</b> - Fish <a href="https://fishshell.com/">*</a></li>
+        <li><b>Prompt</b> - Starship <a href="https://starship.rs/">*</a></li>
+    </ul>
+    For more information: see the <a href="./LICENSE">LICENCE.</a>
+</div>
+<br><br>
 
-### 📦 Required Dependencies
+
+## 📦 Required Dependencies
 >   [!Warning]
 >   If you are using Arch, make sure you have AUR enabled by using paru or yay.
+>   This dependencies may not be available in other operating systems.
 
-```# hyprland-git dunst-git fish-git kitty-git rofi-lbonn-wayland sddm-git waybar-git starship-git swww-git thunar nerdfetch-git cava-git acpilight-git pulseaudio-git pavucontrol alsa-utils htop-git nm-connection-editor ttf-font-awesome-5 ttf-firacode-nerd hyprlock-git jq```
+```
+# yay -S hyprland-git dunst-git fish-git kitty-git rofi-lbonn-wayland sddm-git waybar-git starship-git swww-git thunar nerdfetch-git cava-git acpilight-git pulseaudio-git pavucontrol alsa-utils htop-git nm-connection-editor ttf-font-awesome-5 ttf-firacode-nerd hyprlock-git jq visual-studio-code-bin
+```
 <br><br>
 
 
@@ -70,7 +92,7 @@
 
 <!--- Licence --->
 <div id="licence" align="left">
-    <h3>📄 Licence </h3>
+    <h2>📄 Licence </h2>
     This repository is under the GPL-3.0 license, which grants the following permissions:
     <ul>
         <li>Commercial Use</li>
@@ -85,7 +107,7 @@
 
 <!--- Gratitude --->
 <div id="gratitude" align="left">
-    <h3>❤️ Gratitude</h3>
+    <h2>❤️ Gratitude</h2>
     <ul>
         <li><a href="https://shields.io/">Shields.io</a> - Tool for creating the github badges like the license one down here.</li>
         <li><a href="https://www.color-hex.com/">Color-hex</a> - A tool for creating and collecting color palettes.</li>
