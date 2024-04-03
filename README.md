@@ -48,16 +48,24 @@
         <li><b>Prompt</b> - Starship <a href="https://starship.rs/">*</a></li>
         <li><b>Hotel?</b> - Trivago <a href="https://www.trivago.es/">*</a></li>
     </ul>
-
->   [!Important]
->   Most of this packages are most linux flavours compatible, but check them out in case you are outside of arch environment.
 </div>
+
+>   [!Tip]
+>   Most of this packages are most linux flavours compatible, but check them out in case you are outside of arch environment.
+
 <br><br>
 
 
 <!--- Wallpapers --->
 ## 🖼️ Wallpapers
+>   [!Note]
+>   All this wallpapers are 16:9 aspect ratio and their resolution may vary from 1080 to 2160.
+
+<details>
+<summary><b>🟪 Violet</b></summary>
+
 <br>
+
 | Fishing Stars |
 | :-: |
 | ![](https://github.com/mag4no10/HyprArch/blob/main/violet/backgrounds/fishing_stars.jpg) |
@@ -74,7 +82,7 @@
 | :-: |
 | ![](https://github.com/mag4no10/HyprArch/blob/main/violet/backgrounds/gilded-skies.jpg) |
 
-
+</details>
 <br><br>
 
 
@@ -96,7 +104,7 @@
 
 
 </div>
-<br><br>
+<!--<br><br>-->
 
 
 <!--- Themes --->
@@ -105,7 +113,7 @@
 
 
 </div>
-<br><br>
+<!--<br><br>-->
 
 
 <!--- Keybinds --->
@@ -114,7 +122,7 @@
 
 
 </div>
-<br><br>
+<!--<br><br>-->
 
 
 <!--- Licence --->
@@ -141,6 +149,7 @@
         <li><a href="https://github.com/catppuccin">Catpuccin community</a> - For inspiring me to make this dotfiles and providing me the cat below :)</li>
         <li><a href="https://github.com/s4vitar">S4vitar</a> - Who showed me the beauty of Linux customization.</li>
         <li><a href="https://github.com/SolDoesTech">SolDoesTech</a> - Who made me discover Hyprland.</li>
+        <li><a href="https://wallhaven.cc/">Wallhaven</a> - For providing me breathtaking wallpapers</li>
     </ul>
 </div>
 <br><br>
