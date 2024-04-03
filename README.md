@@ -36,7 +36,8 @@
 ### 📦 Required Dependencies
 >   [!Warning]
 >   If you are using Arch, make sure you have AUR enabled by using paru or yay.
-    ```# hyprland-git dunst-git fish-git kitty-git rofi-lbonn-wayland sddm-git waybar-git starship-git swww-git thunar nerdfetch-git cava-git acpilight-git pulseaudio-git pavucontrol alsa-utils htop-git nm-connection-editor ttf-font-awesome-5 ttf-firacode-nerd hyprlock-git```
+
+```# hyprland-git dunst-git fish-git kitty-git rofi-lbonn-wayland sddm-git waybar-git starship-git swww-git thunar nerdfetch-git cava-git acpilight-git pulseaudio-git pavucontrol alsa-utils htop-git nm-connection-editor ttf-font-awesome-5 ttf-firacode-nerd hyprlock-git jq```
 <br><br>
 
 
