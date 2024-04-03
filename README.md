@@ -56,28 +56,25 @@
 
 
 <!--- Wallpapers --->
-<h2>🖼️ Wallpapers</h2>
-<details>
-    <summary>Violet Theme</summary>
-    <figure>
-        <center><figcaption> Fishing Stars </figcaption></center>
-        <img src="./violet/backgrounds/fishing_stars.jpg" alt="Fishing Stars">
-    </figure>
-    <figure>
-        <center><figcaption> Snowy Star </figcaption></center>
-        <img src="./violet/backgrounds/snowy-star.jpg" alt="Snowy Star">
-    </figure>
-    <br>
-    <figure>
-        <center><figcaption> Gold Peak </figcaption></center>
-        <img src="./violet/backgrounds/gold-peak.jpg" alt="Gold Peak">
-    </figure>
-    <figure>
-        <center><figcaption> Gilded Skies </figcaption></center>
-        <img src="./violet/backgrounds/gilded-skies.jpg" alt="Gilded Skies">
-    </figure>
-    <br>
-</details>
+## 🖼️ Wallpapers
+<br>
+| Fishing Stars |
+| :-: |
+| ![](https://github.com/mag4no10/HyprArch/blob/main/violet/backgrounds/fishing_stars.jpg) |
+
+| Snowy Star |
+| :-: |
+| ![](https://github.com/mag4no10/HyprArch/blob/main/violet/backgrounds/snowy-star.jpg) |
+
+| Gold Peak |
+| :-: |
+| ![](https://github.com/mag4no10/HyprArch/blob/main/violet/backgrounds/gold-peak.jpg) |
+
+| Gilded Skies |
+| :-: |
+| ![](https://github.com/mag4no10/HyprArch/blob/main/violet/backgrounds/gilded-skies.jpg) |
+
+
 <br><br>
 
 
