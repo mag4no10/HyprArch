@@ -56,8 +56,7 @@
 
 
 <!--- Wallpapers --->
-<div id="wallpapers" align="left">
-
+<h2>🖼️ Wallpapers</h2>
 <details>
     <summary>Violet Theme</summary>
     <figure>
@@ -66,7 +65,7 @@
     </figure>
     <figure>
         <center><figcaption> Snowy Star </figcaption></center>
-        <img src="./violet/backgrounds/star-snow.jpg" alt="Snowy Star">
+        <img src="./violet/backgrounds/snowy-star.jpg" alt="Snowy Star">
     </figure>
     <br>
     <figure>
@@ -79,8 +78,6 @@
     </figure>
     <br>
 </details>
-
-</div>
 <br><br>
 
 
