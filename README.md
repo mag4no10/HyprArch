@@ -46,16 +46,49 @@
         <li><b>Fonts</b> - Awesome 5 | Hack/FiraCode Nerd Font <a href="https://fontawesome.com/">*</a> <a href="https://www.nerdfonts.com/">*</a></li>
         <li><b>Shell</b> - Fish <a href="https://fishshell.com/">*</a></li>
         <li><b>Prompt</b> - Starship <a href="https://starship.rs/">*</a></li>
+        <li><b>Hotel?</b> - Trivago <a href="https://www.trivago.es/">*</a></li>
     </ul>
-    For more information: see the <a href="./LICENSE">LICENCE.</a>
+
+>   [!Important]
+>   Most of this packages are most linux flavours compatible, but check them out in case you are outside of arch environment.
 </div>
 <br><br>
 
 
+<!--- Wallpapers --->
+<div id="wallpapers" align="left">
+
+<details>
+    <summary>Violet Theme</summary>
+    <figure>
+        <center><figcaption> Fishing Stars </figcaption></center>
+        <img src="./violet/backgrounds/fishing_stars.jpg" alt="Fishing Stars">
+    </figure>
+    <figure>
+        <center><figcaption> Snowy Star </figcaption></center>
+        <img src="./violet/backgrounds/star-snow.jpg" alt="Snowy Star">
+    </figure>
+    <br>
+    <figure>
+        <center><figcaption> Gold Peak </figcaption></center>
+        <img src="./violet/backgrounds/gold-peak.jpg" alt="Gold Peak">
+    </figure>
+    <figure>
+        <center><figcaption> Gilded Skies </figcaption></center>
+        <img src="./violet/backgrounds/gilded-skies.jpg" alt="Gilded Skies">
+    </figure>
+    <br>
+</details>
+
+</div>
+<br><br>
+
+
+<!--- Deps --->
 ## 📦 Required Dependencies
 >   [!Warning]
 >   If you are using Arch, make sure you have AUR enabled by using paru or yay.
->   This dependencies may not be available in other operating systems.
+>   This exact packages and dependencies may not be available in other operating systems.
 
 ```
 # yay -S hyprland-git dunst-git fish-git kitty-git rofi-lbonn-wayland sddm-git waybar-git starship-git swww-git thunar nerdfetch-git cava-git acpilight-git pulseaudio-git pavucontrol alsa-utils htop-git nm-connection-editor ttf-font-awesome-5 ttf-firacode-nerd hyprlock-git jq visual-studio-code-bin
@@ -63,7 +96,7 @@
 <br><br>
 
 
-<!--- Installation and dependencies --->
+<!--- Installation --->
 <div id="installation" align="center">
 
 
