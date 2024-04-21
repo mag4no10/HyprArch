@@ -10,5 +10,6 @@ if status is-interactive
     nerdfetch
     starship init fish | source
     fnm env --use-on-cd | source
-    #pfetch
+    fish_ssh_agent
+  #pfetch
 end

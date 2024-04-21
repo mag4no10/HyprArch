@@ -54,7 +54,7 @@ esac
 if command -v getprop 1> /dev/null; then
 	distrotype=android
 fi
-kernel="$(echo $(uname -r) | cut -d'-'  -f1-1)"
+kernel="$(uname -r | tr '-' ' ' | awk '{print $1}')"
 case $ostype in
 	*"Linux"*)
 		if [ $distrotype = android ]; then
