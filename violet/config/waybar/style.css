@@ -43,6 +43,28 @@
 @define-color   base      #24273a;
 */
 
+@keyframes shine {
+    0% {
+        background-position: -200% 0;
+    }
+    100% {
+        background-position: 200% 0;
+    }
+}
+
+@keyframes gradient {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
+}
+
+
 * {
     color:  #51306e;
     font-family: Awesome Font, FiraCode Nerd Font;
@@ -87,7 +109,7 @@ window#waybar {
 #custom-launcher {
     /*background-color: #c5a6e1;*/
     color: #c5a6e1;
-    padding: 5px 11px;
+    padding: 5px 6px 5px 8px;
     font-size: 20px;
     border-radius: 12px;
     margin-top: 4px;

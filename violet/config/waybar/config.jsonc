@@ -24,7 +24,7 @@
 		"pulseaudio", 
 		"group/hardware" , 
 		"network", 
-		"group/group-power"
+		"custom/power"
 	],
 
 
@@ -92,7 +92,7 @@
 	"custom/cava": {
 		"format": "{}",
 		"tooltip": false,
-		"exec": "killall cava; cava -p $HOME/.config/cava/cava.conf | sed -u 's/;//g;s/0/''/g;s/1/▂/g;s/2/▃/g;s/3/▄/g;s/4/▅/g;s/5/▆/g;s/6/▇/g;s/7/█/g;'"
+		"exec": "killall cava; cava -p $HOME/.config/cava/cava.conf | sed -u 's/;//g;s/0/'▁'/g;s/1/▂/g;s/2/▃/g;s/3/▄/g;s/4/▅/g;s/5/▆/g;s/6/▇/g;s/7/█/g;'"
 	},
 
 
@@ -206,38 +206,10 @@
 		"tooltip-format-ethernet": "{ipaddr}/{cidr}"
 	},
 
-  
-  	"group/group-power": {
-		"orientation": "inherit",
-		"drawer": {
-			"transition-duration": 500,
-			"children-class": "power-group",
-			"transition-left-to-right": false
-		},
-		"modules": ["custom/power", "custom/quit", "custom/lock", "custom/reboot"]
-	},
 
 	"custom/power": {
 		"format": "󰐥",
 		"tooltip": false,
-		"on-click": "systemctl poweroff"
-	},
-
-	"custom/reboot": {
-		"format": "󰜉",
-		"tooltip": false,
-		"on-click": "systemctl reboot"
-	},
-
-	"custom/lock": {
-		"format": "󰍁",
-		"tooltip": false,
-		"on-click": "swaylock"
-	},
-
-	"custom/quit": {
-		"format": "󰗼",
-		"tooltip": false,
-		"on-click": "hyprctl dispatch exit"
+		"on-click": "wlogout"
 	}
 }
